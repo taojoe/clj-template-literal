@@ -17,3 +17,9 @@ Please see the test file to know how to do it.
 
 
 ```
+
+# Thanks
+
+The idea is from [clojure.core.strint](https://github.com/clojure/core.incubator/blob/master/src/main/clojure/clojure/core/strint.clj), it is best for clojure doing the interpolate thing. 
+
+This library just make it work with user defined function other than str.
