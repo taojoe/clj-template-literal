@@ -1,6 +1,7 @@
 # clj-template-literal
 clojure template literals as javascript. the idea is from [MDN Template literals ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
+![](https://clojars.org/com.github.taojoe/clj-template-literal/latest-version.svg)
 # Usage
 
 Template literals is the best way to do safe sql, it's more than that. the best usage please see the a similar library in javascript [SQL Template Strings](https://github.com/felixfbecker/node-sql-template-strings)
