@@ -20,3 +20,4 @@
           target ["select * from user where name= ? " name]]
       (prn target)
       (is (= sql0 target)))))
+

@@ -8,8 +8,3 @@
   Evaluation is controlled using ~{} and ~() forms as described as https://github.com/clojure/core.incubator/blob/master/src/main/clojure/clojure/core/strint.clj "
   [fn str]
   `(~fn ~@(interpolate str)))
-
-(interpolate "hello from ~(+ 1 2)")
-
-(let [name "joe"]
-  (<<< str "hello from ~{name}"))
